@@ -1,0 +1,16 @@
+@media only screen {
+body{
+	background-image: url("http://zellox.com/wp-content/uploads/2016/02/awesome-background-nature-wallpapers.jpg");
+	background-repeat: no-repeat;
+	background-position: fixed;
+}
+}
+#container{
+	margin-top: 10px;
+	text-align:center;
+	width:auto;
+	height:auto;
+}
+h1{
+	text-align:center;
+}
